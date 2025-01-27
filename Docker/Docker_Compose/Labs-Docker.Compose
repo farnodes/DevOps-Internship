@@ -1,0 +1,22 @@
+### Docker Compose
+
+1. First create a redis database container called redis, image redis:alpine.
+
+2. Next, create a simple container called clickcounter with the image kodekloud/click-counter, link it to the redis container that we created in the previous task and then expose it on the host port 8085
+
+3. You can now access this application using the Click-Counter tab above the terminal. Refresh the page and see the count increase.
+
+4. Let's clean up the actions carried out in previous steps. Delete the redis and the clickcounter containers.
+
+5. Create a docker-compose.yml file under the directory /root/clickcounter. Once done, run docker-compose up.
+
+The compose file should have the exact specification as follows -
+
+redis service specification - Image name should be redis:alpine.
+clickcounter service specification - Image name should be kodekloud/click-counter, app is run on port 5000 and expose it on the host port 8085 in the compose file.
+
+
+
+
+
+
