@@ -1,0 +1,36 @@
+1. The input() method returns string value. So, if we want to perform arithmetic operations, we need to cast the value first.
+
+
+
+2. What is the output of the following python code if we enter 25 as input?
+
+```bash
+age =input("My age is: " )
+print (age)
+```
+
+3. What will be printed when the following executes?
+
+```bash
+print(int(15.5)-10)
+```
+
+4. What is the output of the following python code if we enter “Hello Python” as input?
+
+```bash
+inputString = input('Enter a string: ')
+print(inputString, sep='#', end='&')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

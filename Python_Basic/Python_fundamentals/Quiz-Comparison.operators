@@ -1,0 +1,55 @@
+1. What is the output of the following python code?
+
+```bash
+x = 6
+y = 7
+print(x != y)
+```
+
+2. What is the output when the following executes?
+
+```bash
+'python'>'Python'
+```
+
+3. What is the output of the following code?
+
+```bash
+y = 20
+x = y += 3
+print(x)
+```
+
+4. What is the output when the following executes?
+
+```bash
+print(2 < 4)
+```
+
+5. What would get printed?
+
+```bash
+min_score = 13
+score = 13
+print(score > min_score)
+print(score <= min_score)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

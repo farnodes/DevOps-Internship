@@ -1,0 +1,56 @@
+1. What is the output of the following python code?
+
+```bash
+#print("Hello, jack!")
+print("Hello, Sally!")
+```
+
+2. What is the output of the following python code?
+
+```bash
+print("line1")
+#print("line2")
+print("#line3")
+```
+
+3. What is the output of the following python code?
+
+
+```bash
+name = "Sally"# employee name 
+data = "#123" 
+print (name+data)
+```
+
+4. Which character is used in Python to make a single line comment?
+
+
+
+5. What is the output of the following python code?
+
+```bash
+#x = 5
+#y = 6
+z = 7
+print(x+y+z)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
