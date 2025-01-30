@@ -1,0 +1,76 @@
+1. What is the output of the following python code?
+
+```bash
+x = 5
+y = "Sally"
+print(str(x) + y)
+```
+
+2. What is the output of the following python code if we enter 5 as input?
+
+```bash
+Num = input("Enter a Number: ") 
+print (Num * 3 )
+```
+
+3. What will be printed when the following executes?
+
+```bash
+print("ha"*2)
+```
+
+4. What is the output of the following python code if we enter “HelloPython” as input?
+
+```bash
+inputString = input('Enter a string: ')
+print(inputString*2)
+```
+
+5. What is the output of the following python code if we enter 5 as input?
+
+```bash
+Num = input("Enter a Number: ")
+Num = int(Num) 
+print ( Num * 3 )
+```
+
+6. Which method should you use in order to convert the input into a string correctly:
+
+
+```bash
+year_of_birth = int(input("In what year were you born? "))
+
+print("You were born in " + ...(year_of_birth))
+```
+
+7. Which operator you can use to perform string concatenation?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

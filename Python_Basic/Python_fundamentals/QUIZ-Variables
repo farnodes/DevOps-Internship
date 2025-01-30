@@ -1,0 +1,50 @@
+1. In Python, a variable must be declared before it is assigned a value:
+
+2. What is the output of the following python code?
+
+```bash
+amount = 4
+cost = 2
+cost += 2
+print(amount * cost)
+```
+
+3. What would get printed to the console?
+
+```bash
+age = 22
+AGE = 44
+age /= 2
+
+print(age + AGE)
+```
+
+4. True is what type of variable?
+
+
+5. What is the output of the following python code?
+
+y = 5
+y = "Jack"
+print(y)
+
+6. Which of the following statements assigns the value 50 to the variable x in Python:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

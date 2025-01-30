@@ -1,0 +1,100 @@
+1. What is the value of the expression 100 / 50 ?
+
+2. What is the output of the following python code?
+
+```bash
+print(10 / 2)
+```
+
+3. What is the output of the following python code?
+
+```bash
+print(2 ** 3)
+```
+
+4. What is the output of the following python code?
+
+```bash
+print(2 ** 3.)
+```
+
+5. What is the output of the following python code?
+
+```bash
+print(13 / 4 + 13 % 4)
+```
+
+6. What is the output of the following python code?
+
+```bash
+print(2*(2+3))
+```
+
+7. What is the output of the following python code?
+
+```bash
+print(9 % 4)
+```
+
+8. What is the output of the following python code?
+
+```bash
+print(6. // 4)
+```
+
+9. What is the output of print(2 * 3 ** 3 * 4)?
+
+
+10. What does the following print?
+
+```bash
+x = 10 / 4
+y = 5 / 2.0
+print (x + y)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+

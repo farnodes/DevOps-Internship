@@ -1,0 +1,135 @@
+### Docker images
+
+1. How many images are available on this host?
+
+2. What is the size of the ubuntu image?
+
+3. We just pulled a new image. What is the tag on the newly pulled NGINX image?
+
+4. We just downloaded the code of an application. What is the base image used in the Dockerfile?
+
+5. To what location within the container is the application code copied to during a Docker build?
+
+6. When a container is created using the image built with this Dockerfile, what is the command used to RUN the application inside it.
+
+7. What port is the web application run within the container?
+
+8. Build a docker image using the Dockerfile and name it webapp-color. No tag to be specified.
+
+9. Run an instance of the image webapp-color and publish port 8080 on the container to 8282 on the host.
+
+10. What is the base Operating System used by the python:3.6 image?
+
+11. What is the approximate size of the webapp-color image?
+
+12. Run an instance of the new image webapp-color:lite and publish port 8080 on the container to 8383 on the host.
+
+
+### Environment Variables
+
+1. Inspect the environment variables set on the running container and identify the value set to the APP_COLOR variable.
+
+2. Run a container named blue-app using image kodekloud/simple-webapp and set the environment variable APP_COLOR to blue. Make the application available on port 38282 on the host. The application listens on port 8080.
+
+3. View the application by clicking the link HOST:38282 above your terminal and ensure it has the right color.
+
+4. Deploy a mysql database using the mysql image and name it mysql-db. Set the database password to use db_pass123. Lookup the mysql image on Docker Hub and identify the correct environment variable to use for setting the root password.
+
+
+### Command & Entrypoint
+
+1. What is the ENTRYPOINT configured on the mysql image?
+
+2. What is the CMD configured on the wordpress image?
+
+3. What is the final command run at startup when the wordpress image is run. Consider both ENTRYPOINT and CMD instructions
+
+4. What is the command run at startup when the ubuntu image is run?
+
+5. Run an instance of the ubuntu image to run the sleep 1000 command at startup.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

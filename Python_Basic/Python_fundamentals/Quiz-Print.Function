@@ -1,0 +1,52 @@
+###  Quiz: Print Function
+
+1. What is the output of the following python code?
+
+```bash
+print("Hello" + " " "future" + " " "python!")
+```
+
+2. The …. function prints the specified message to the screen, or another standard output device.
+
+
+3. Is it possible to pass multiple arguments to a function?
+
+
+
+4. What is the output of the following python code?
+
+```baah
+print(1, 2, 3, 4, sep='#', end='&')
+```
+
+5. What is the special character that is used for a new line?
+
+
+6. …. is a block of code that only runs when it is called and used to cause an effect or evaluate a value.
+
+
+7. The output of the following code will be:
+
+```bash
+print('My age is ' + 25)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
