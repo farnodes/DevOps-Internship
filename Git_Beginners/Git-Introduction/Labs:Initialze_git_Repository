@@ -1,0 +1,136 @@
+1. What is the command to initialize a git repository?
+
+2. Initialize a git repository at /home/sarah/story-blog
+
+3. Which hidden folder gets created after initializing a git repository?
+
+4. Let's test some of the concepts we learned so far in our lectures.
+
+5. Let’s add a file to our project inside /home/sarah/story-blog
+
+
+\File name: lion-and-mouse.txt
+
+\File content: A Lion lay asleep in the forest
+
+
+6. Which stage contains new changes that will soon be committed to local git repo ?
+
+7. What commits are listed in the git repository?
+
+8. What's the status of the lion-and-mouse.txt file in the repository?
+
+9. Which area of the local git repository is the lion-and-mouse.txt file in ?
+
+10. Stage the file lion-and-mouse.txt to make it available for commit.
+
+11. Now, it's time to commit our change! A commit records the change in the repository compared to its previous state. But before that we must configure the git user who will be the owner of the commit.
+
+
+\Set git username as sarah and user email as sarah@example.com using the below commands.
+
+\git config user.email sarah@example.com
+
+\git config user.name sarah
+
+
+12. Let's commit our change! In this case, we didn't have any previous commits,
+so the addition of the file lion-and-mouse.txt is a change compared to its previous state.
+Commit the files that are currently in the staging area.
+
+
+\First check the status of the file using the command git status. Then commit using the commit message as Added the lion and mouse story
+
+
+13. Sarah created a new file named notes.txt where she plans to write down ideas about the story for personal purposes. She does not want git to track this file or share it with her team mates.
+
+What is the current status of the notes.txt file?
+
+
+14. What's the status of the file notes.txt now in the git status command's output.
+
+15. Let's explore another git repository. We have a repository used for the development of an application cloned at /home/sarah/learning-app-ecommerce.
+
+Identify the state of the git repository. How many files are staged and how many are not?
+
+
+16. What files are configured to be ignored by this repository?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
